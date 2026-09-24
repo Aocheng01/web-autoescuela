@@ -1,4 +1,3 @@
-
 Conceptos teoricos equivalencia con .NET.
 ![alt text](image.png)
 
