@@ -1,0 +1,16 @@
+-App
+-Layout
+-Navbar
+-NavLinks
+-Button
+-Homepage
+-Hero
+-- Badge («Autoescuela … · Desde 2014»)
+-PermisosSection - SectionHeader - PermisoCard × 5 (→ data/permisos.js)
+-VentajasSection
+-OffRoadBanner
+-HerramientasSection
+-TestimoniosSection
+-GaleriaSection
+-ContactoSection
+-Footer
